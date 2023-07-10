@@ -57,3 +57,7 @@ for i in range(1,21):
 print(" ");
 
 """7- Utilizando um loop "while", inverta uma string digitada pelo usuário."""
+
+print(input("Digite uma string: "));
+
+while palavra 
